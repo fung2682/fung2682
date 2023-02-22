@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jeffrey Fung
 - 👀 I’m interested in software engineering, game development (C++, Python).
+- 💡 Experience in Python, C++, C, Java. Knowledge of SQL.
 - 🌱 I’m currently studying Computer Science at The University of Hong Kong.
 - 📫 How to reach me: fung2682@gmail.com
 
